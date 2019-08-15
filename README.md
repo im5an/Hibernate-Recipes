@@ -1,2 +1,2 @@
 # Hibernate-Recipes
-All Hibernate ORM UseCases
+All Hibernate ORM UseCases with complete examples
